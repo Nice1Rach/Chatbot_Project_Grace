@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+openai
+SpeechRecognition
+pyttsx3
+google-api-python-client
+google-auth
+google-auth-oauthlib
+twilio
+apscheduler
